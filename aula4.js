@@ -81,12 +81,14 @@ function valores(a , b){
    }
 }
 valores(100, 50)
-*/
 
 
 
 let temperatura= (grau) => grau -32 / 1.8 
 alert(temperatura(parseFloat(prompt("Digite a temperatura em fahrenheit: "))))
+
+*/
+
 
 
 
